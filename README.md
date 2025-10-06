@@ -1,8 +1,8 @@
 # WikiOS
 Building my first mini OS for running custom wiki's
 
-## -- Features --
+## Features
 
 
-## -- Docs --
-📘 [View the full project plan here](project_plan.md)
+## Docs
+📘 [View the full project plan here](docs/project_plan.md)
